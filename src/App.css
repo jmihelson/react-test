@@ -1,6 +1,6 @@
 .app{
   height: 100vh;
-  background: lightblue;
+  background: rgb(156, 204, 222);
   display: flex;
   justify-content: space-around;
   align-items: center;
