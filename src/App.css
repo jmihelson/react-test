@@ -9,7 +9,7 @@
 .tweet{
   height: 300px;
   width: 300px;
-  background: white;
+  background: rgb(227, 220, 220);
   border-radius: 30px;
   border: 2px solid black;
   display: flex;
